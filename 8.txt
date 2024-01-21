@@ -1,4 +1,4 @@
-content from local
+content from local local
 8 file 1 line
 new conent
 
